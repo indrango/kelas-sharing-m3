@@ -1,4 +1,5 @@
 # Kelas Sharing M3
+This is the module for Kelas Sharing, you can use for learning web development like HTML, CSS and Bootstrap.
 
 ## Preparation :
 * Download this source code with click the Download ZIP button at right corner
