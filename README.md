@@ -3,7 +3,7 @@ This is the module for Kelas Sharing, you can use for learning web development l
 
 ## Preparation :
 * Download this source code with click the Download ZIP button at right corner
-* Download Bracket for text editor at http://brackets.io/
+* Download Bracket for text editor at http://brackets.io/ (you can download bracket without extract for smallest size)
 * Open Introduce HTML slide  at https://speakerdeck.com/indrango/introduce-html
 * Open Introduce CSS slide https://speakerdeck.com/indrango/introduce-css
 * Open Bootstrap Projcet at https://speakerdeck.com/indrango/bootstrap-project
